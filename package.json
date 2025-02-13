@@ -1,0 +1,32 @@
+{
+  "name": "orchard",
+  "version": "1.0.0",
+  "description": "Orchard driving school packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "browser-sync": "^3.0.3",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^7.0.6",
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-deporder": "^1.2.0",
+    "gulp-imagemin": "^9.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-noop": "^1.0.1",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-strip-debug": "^6.0.0",
+    "gulp-uglify": "^3.0.2",
+    "postcss-assets": "^6.0.0"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "sass": "^1.83.1"
+  }
+}
